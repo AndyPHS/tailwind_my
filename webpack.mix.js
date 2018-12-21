@@ -12,8 +12,11 @@ const mix = require('laravel-mix');
  */
 
 mix.js('resources/js/app.js', 'public/js')
-   .sass('resources/sass/app.scss', 'public/css');
+   .sass('resources/sass/home/app.scss', 'public/assets/home/css');
+    .sass('resources/sass/home/index.scss', 'public/assets/home/index');
 
+
+// 浏览器自动刷新
 mix.browserSync({
     proxy: 'tailwind-my.test'
 });

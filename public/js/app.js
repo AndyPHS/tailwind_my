@@ -47795,7 +47795,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-// removed by extract-text-webpack-plugin
+throw new Error("Module build failed (from ./node_modules/css-loader/index.js):\nModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):\nError: ENOENT: no such file or directory, open '/Users/patterson/Codes/tailwind_test/tailwind_my/resources/sass/app.scss'\n    at runLoaders (/Users/patterson/Codes/tailwind_test/tailwind_my/node_modules/webpack/lib/NormalModule.js:301:20)\n    at /Users/patterson/Codes/tailwind_test/tailwind_my/node_modules/loader-runner/lib/LoaderRunner.js:364:11\n    at /Users/patterson/Codes/tailwind_test/tailwind_my/node_modules/loader-runner/lib/LoaderRunner.js:200:19\n    at process.nextTick (/Users/patterson/Codes/tailwind_test/tailwind_my/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:73:15)\n    at process._tickCallback (internal/process/next_tick.js:61:11)");
 
 /***/ }),
 
